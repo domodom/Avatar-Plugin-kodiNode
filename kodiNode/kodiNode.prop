@@ -1,0 +1,9 @@
+{
+	"modules": {
+		"kodiNode": {
+			"version": "1.0",
+			"name": "Kodi Node Interface Server",
+			"room": "Salon"
+		}
+	}
+}

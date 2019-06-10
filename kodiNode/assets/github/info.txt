@@ -1,0 +1,4 @@
+Contrôle le médiacenter KODI depuis l'interface d'A.V.A.T.A.R
+
+Permet d'avoir des commandes directement depuis l'interface.
+

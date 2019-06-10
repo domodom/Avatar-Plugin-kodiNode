@@ -1,0 +1,23 @@
+{
+  "id": "kodiNode",
+  "classes": {
+    "kodiNode": 1
+  },
+  "selected": false,
+  "locked": false,
+  "position": {
+    "x": 289.92,
+    "y": 360.73
+  },
+  "style": {
+    "background-image": "D:\\AVATAR\\Serveur\\resources\\core\\plugins\\kodiNode\\assets\\images\\kodinode.png",
+    "height": 45,
+    "width": 45,
+    "border-opacity": 0,
+    "font-size": "12px",
+    "color": "rgba(255, 245, 251, 1)",
+    "text-valign": "bottom",
+    "text-outline-width": 2,
+    "text-outline-color": "#999"
+  }
+}
