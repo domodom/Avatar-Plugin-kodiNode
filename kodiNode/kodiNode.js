@@ -186,7 +186,7 @@ function addKodiNode () {
       cyto.getGraph()
       .then(cy => cyto.addGraphElement(cy, "kodiNode"))
       .then(elem => cyto.addElementClass(elem, "kodiNode"))
-			.then(elem => cyto.addElementImage(elem, __dirname+"/assets/images/kodinode.png"))
+			.then(elem => cyto.addElementImage(elem, __dirname+"/assets/images/kodi.png"))
       .then(elem => cyto.addElementSize(elem, 45))
       .then(elem => cyto.addElementRenderedPosition(elem, 100, 140))
 			.then(elem => cyto.onHoldClick(elem, (evt) => {
