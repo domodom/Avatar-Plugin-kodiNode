@@ -3,7 +3,7 @@
 Contrôle le médiacenter KODI via un bouton dans l'interface d'A.V.A.T.A.R.
 Nécessite le plugin kodi ...
 
-![kodiNode](https://raw.githubusercontent.com/domodom/Avatar-Plugin-kodiNode/master/kodiNode/assets/images/screen.png)
+![kodiNode](https://raw.githubusercontent.com/domodom/Avatar-Plugin-kodiNode/master/kodiNode/assets/images/kodiNode.png)
 
 <BR><BR>
 
